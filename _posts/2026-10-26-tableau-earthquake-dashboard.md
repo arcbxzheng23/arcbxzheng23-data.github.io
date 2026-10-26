@@ -48,7 +48,7 @@ Some useful questions this dashboard can help answer include:
 - Which individual earthquakes had the largest recorded magnitude?  
 - How does earthquake activity differ across broader global regions?
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/DSIEarthquakeDashboard/DSIEarthquakeTracker?:embed=yes&:display_count=yes&:showVizHome=no" width = '1090' height = '900'></iframe>
+<iframe seamless frameborder="0" src="[https://public.tableau.com/views/DSIEarthquakeDashboard/DSIEarthquakeTracker](https://public.tableau.com/views/DSIEarthquakeDashboard_17929858343000/DSIEarthquakeTracker?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)?:embed=yes&:display_count=yes&:showVizHome=no" width = '1090' height = '900'></iframe>
 
 &nbsp;
 
