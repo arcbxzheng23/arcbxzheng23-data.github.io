@@ -1,6 +1,10 @@
 ---
+layout: post
+title: Earthquake Tracking Dashboard Using Tableau
+image: "/posts/tableau-map-image.png"
+tags: [Tableau, Data Viz]
+---
 
-## layout: post title: Earthquake Tracking Dashboard Using Tableau image: "/posts/tableau-map-image.png" tags: \[Tableau, Data Viz\]
 
 This Tableau dashboard tracks global earthquake activity across a 30-day period.
 
@@ -48,7 +52,7 @@ Some useful questions this dashboard can help answer include:
 - Which individual earthquakes had the largest recorded magnitude?  
 - How does earthquake activity differ across broader global regions?
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/app/profile/ben.cheng1247/viz/DSIEarthquakeDashboard_17929858343000/DSIEarthquakeTracker?:embed=yes&:display_count=yes&:showVizHome=no" width = '1090' height = '900'></iframe>
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/DSIEarthquakeDashboard_17929858343000/DSIEarthquakeTracker?:embed=yes&:display_count=yes&:showVizHome=no" width = '1090' height = '900'></iframe>
 &nbsp;
 
 ---
